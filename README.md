@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Tarek%20Benameur&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems&descAlignY=62&descSize=18" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 </div>
 
