@@ -26,12 +26,12 @@ I'm an AI Engineer building production LLM and RAG systems that turn AI research
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a2e?style=for-the-badge)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-<sub>Also build with: React, TypeScript, Next.js, Tailwind CSS, Flutter</sub>
-
 ### 💡 Featured projects
 
 🔍 **[InkMap](https://github.com/Tarek-yagami/InkMap)** — turns a research paper into an interactive knowledge graph (FastAPI + React)
+
 🕸️ **[codebase-knowledge-graph](https://github.com/Tarek-yagami/codebase-knowledge-graph)** — turns a codebase into an explorable 3D knowledge graph + MCP server
+
 ☀️ **[algeria-solar-wind-potential](https://github.com/Tarek-yagami/algeria-solar-wind-potential)** — data-driven study of solar/wind siting from 20 years of NASA data
 
 ### 📊 GitHub stats
