@@ -56,6 +56,7 @@ I'm an AI Engineer building production LLM and RAG systems that turn AI research
 
 ### 📫 Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-b3402c?style=for-the-badge&logo=firefox&logoColor=white)](https://tarek-yagami.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benameur-tarek-88b937228/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lt_benameur@esi.dz)
 
