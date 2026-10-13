@@ -52,11 +52,11 @@ I'm an AI Engineer building production LLM and RAG systems that turn AI research
 
 ### 🤝 Open source contributions
 
-🧵 **[docling](https://github.com/docling-project/docling/pull/4707)**: fixed a thread and memory leak in the PDF pipeline by reusing long-lived model threads
-
-🐝 **[beeai-framework](https://github.com/i-am-bee/beeai-framework/pull/1769)**: fixed a memory leak where agent runs were never released
-
-📏 **[open-rag-eval](https://github.com/vectara/open-rag-eval/pull/165)**: fixed golden answers being dropped when query IDs are numeric
+| Project | Contribution | Merged PRs |
+|:--|:--|:--:|
+| 🧵 **[docling](https://github.com/docling-project/docling)** | Fixed a long-standing thread and memory leak in the PDF pipeline by reusing long-lived model threads | [#4707](https://github.com/docling-project/docling/pull/4707) |
+| 🐝 **[beeai-framework](https://github.com/i-am-bee/beeai-framework)** | Fixed a memory leak where agent runs were never released | [#1769](https://github.com/i-am-bee/beeai-framework/pull/1769) |
+| 📏 **[open-rag-eval](https://github.com/vectara/open-rag-eval)** | Fixed golden answers being dropped when query IDs are numeric | [#165](https://github.com/vectara/open-rag-eval/pull/165) |
 
 ### 📊 GitHub stats
 
