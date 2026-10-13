@@ -50,6 +50,14 @@ I'm an AI Engineer building production LLM and RAG systems that turn AI research
 
 ☀️ **[algeria-solar-wind-potential](https://github.com/Tarek-yagami/algeria-solar-wind-potential)**: data-driven study of solar/wind siting from 20 years of NASA data
 
+### 🤝 Open source contributions
+
+🧵 **[docling](https://github.com/docling-project/docling/pull/4707)**: fixed a thread and memory leak in the PDF pipeline by reusing long-lived model threads
+
+🐝 **[beeai-framework](https://github.com/i-am-bee/beeai-framework/pull/1769)**: fixed a memory leak where agent runs were never released
+
+📏 **[open-rag-eval](https://github.com/vectara/open-rag-eval/pull/165)**: fixed golden answers being dropped when query IDs are numeric
+
 ### 📊 GitHub stats
 
 <img height="165" src="https://streak-stats.demolab.com/?user=Tarek-yagami&theme=tokyonight&hide_border=true" />
